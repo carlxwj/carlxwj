@@ -1,107 +1,79 @@
 <div align="center">
 
-# Hi, I'm Carlos
+# Carlos da Costa
 
-### Self-taught developer · Web & desktop applications · Future Computer Science student
+**Développement web et applications Windows**
 
-**Building useful software, understanding how it works, and improving it step by step.**
+Développeur autodidacte basé en France, je conçois des applications utiles en m'intéressant autant à leur architecture, leurs données et leurs tests qu'à leur interface.
 
-Based in France · Preparing for university studies in Computer Science
+Préparation du baccalauréat général en candidat libre (NSI et langues) · Projet de poursuite d'études en informatique
+
+[Projets](#projets) · [Compétences](#compétences) · [Parcours](#parcours) · [English](#english)
 
 </div>
 
 ---
 
-## About me
+## Projets
 
-I'm **Carlos**, a self-taught developer interested in software engineering, application architecture, databases, algorithms, and user experience.
+### [Kortiz — Dépenses partagées](https://github.com/carlxwj/kortiz)
 
-I enjoy turning real needs into usable applications, from collaborative web platforms to Windows desktop tools. I also work on testing, documentation, security, and maintainability—not only visual design.
+Application web collaborative et multilingue pour organiser des dépenses, préparer des budgets, suivre les soldes et enregistrer des confirmations de remboursement.
 
-I'm preparing for the French **baccalauréat as an independent candidate**, with **NSI (Computer Science)** and **languages**, and aim to continue my education with a **Computer Science degree**.
+- **Technologies :** JavaScript, HTML/CSS, Firebase Authentication, Firestore et Cloud Functions.
+- **Enjeux techniques :** calculs financiers, règles d'accès, états de remboursement, communication et tests de régression.
+- **Précision :** Kortiz ne reçoit, ne conserve et ne transfère pas d'argent.
 
-## Selected projects
+[Code source](https://github.com/carlxwj/kortiz) · [Site public](https://kortiz-de19f.web.app/) · [Tests automatisés](https://github.com/carlxwj/kortiz/actions/workflows/checks.yml)
 
-### [Kortiz — Collaborative expense management](https://github.com/carlxwj/kortiz)
+### [Orbit 2.0 — Application de bureau Windows](https://github.com/carlxwj/orbit-windows)
 
-A multilingual web application designed to help groups organize shared expenses and keep track of balances, budgets, reimbursements, and discussions.
+Tableau de bord natif pour explorer les informations matérielles d'un PC, les performances et les périphériques depuis une interface Electron.
 
-- Expense tracking, group balances, recurring expenses, and collaborative features
-- Group and private messaging, polls, and notification settings
-- User authentication, Firestore access rules, and backend functions
-- French, English, Portuguese, and Spanish interfaces
-- **No money is held, transferred, or processed by the application**
+- **Technologies :** Electron, React, TypeScript, C# et API Windows.
+- **Enjeux techniques :** architecture desktop, communication IPC, collecte système, données indisponibles et compatibilité.
+- **État :** code et compilation Windows automatisée disponibles ; validation sur différents matériels encore en cours.
 
-**Stack:** `JavaScript` · `HTML/CSS` · `Firebase Authentication` · `Cloud Firestore` · `Cloud Functions` · `Firebase Hosting`
+[Code source](https://github.com/carlxwj/orbit-windows) · [Tests](https://github.com/carlxwj/orbit-windows/actions/workflows/checks.yml) · [Build Windows](https://github.com/carlxwj/orbit-windows/actions/workflows/windows.yml)
 
-**What it teaches me:** data modeling, access control, business logic, automated testing, and full-stack architecture.
+### [Moussa Toure — Portfolio d'acteur et CMS](https://github.com/carlxwj/moussa-toure-portfolio-code)
 
-### [Orbit 2.0 — Windows system dashboard](https://github.com/carlxwj/orbit-windows)
+Portfolio bilingue avec interface d'administration pour gérer les projets, expériences, galeries et contenus professionnels sans modifier le code.
 
-A Windows desktop project for exploring hardware and system information in a clean interface.
+- **Technologies :** React, TypeScript, Vite, Firebase, Cloudinary et Cloudflare.
+- **Enjeux techniques :** expérience utilisateur, gestion de contenus, authentification, permissions et stockage de médias.
+- **Confidentialité :** le dépôt public présente une édition de démonstration, sans les photos, le CV ni les données de production de l'acteur. Le dépôt original reste privé.
 
-- Desktop application built with Electron and a React/TypeScript interface
-- Integration with Windows through a C# component
-- Display of available CPU, GPU, memory, storage, screen, and device information
-- Attention to unsupported sensors, missing values, and usability
+[Code public de démonstration](https://github.com/carlxwj/moussa-toure-portfolio-code) · [Site de l'acteur](https://moussatoure-actor.web.app/) · [Tests](https://github.com/carlxwj/moussa-toure-portfolio-code/actions/workflows/checks.yml)
 
-**Stack:** `Electron` · `React` · `TypeScript` · `C#` · `Windows`
+## Compétences
 
-**What it teaches me:** desktop architecture, inter-process communication, native-system integration, and error handling.
-
-### [Moussa Toure — Actor portfolio & custom CMS](https://github.com/carlxwj/moussa-toure-portfolio-code)
-
-A bilingual portfolio for an actor, with an administration interface that makes it possible to update professional content without editing the source code.
-
-- Responsive portfolio, projects, professional credits, galleries, and showreel
-- Content management through a protected administration interface
-- Media and document management with cloud integrations
-- Real-world maintenance and user-oriented improvements
-
-**Stack:** `React` · `TypeScript` · `Vite` · `Firebase` · `Cloudflare` · `Cloudinary`
-
-**What it teaches me:** designing for real users, content management systems, cloud integration, and deployment.
-
-> **Public repositories:** [Kortiz](https://github.com/carlxwj/kortiz), [Orbit 2.0](https://github.com/carlxwj/orbit-windows), and the [sanitized Moussa Toure CMS](https://github.com/carlxwj/moussa-toure-portfolio-code) are open for viewing. The original Moussa Toure production repository remains private to protect third-party media and project-specific information.
-
-## Technologies & tools
-
-| Area | Technologies |
+| Domaine | Outils et technologies |
 | --- | --- |
-| Web development | JavaScript, TypeScript, HTML, CSS, React, Vite |
-| Backend & data | Firebase Authentication, Cloud Firestore, Cloud Functions |
-| Desktop & Windows | Electron, C# |
-| Developer tools | Git, GitHub, Node.js, npm |
-| Quality & security | Automated tests, access rules, code review, technical documentation |
-| Currently learning | Python, algorithms, data structures, and university-level mathematics |
+| Frontend | JavaScript, TypeScript, React, HTML, CSS, Vite |
+| Backend et données | Firebase Authentication, Cloud Firestore, Cloud Functions |
+| Développement Windows | Electron, C#, intégration avec les API système |
+| Outils de développement | Git, GitHub, Node.js, npm |
+| Qualité | Tests automatisés, GitHub Actions, documentation, règles de sécurité |
 
-## My approach
+## Parcours
 
-- **Understand the problem** before choosing a technology.
-- **Keep user data private** and distinguish public configuration from secrets.
-- **Test important behavior** and document what has—and has not—been validated.
-- **Learn the fundamentals:** algorithms, data structures, logic, and mathematics.
-- **Explain my work clearly,** including trade-offs and limitations.
+Je développe ces projets de manière autodidacte tout en préparant le baccalauréat général en candidat libre. Mon objectif est de poursuivre des études en informatique en France et de renforcer mes connaissances en **algorithmique, Python, structures de données et mathématiques**.
 
-## My next steps
-
-- Strengthen my foundations in **mathematics, Python, and algorithms**.
-- Build small algorithm-focused projects alongside my existing applications.
-- Improve project documentation, tests, accessibility, and security.
-- Prepare for a **Computer Science degree in France**.
-
----
+Je privilégie des réalisations dont je peux expliquer le fonctionnement, les choix techniques et les limites. Les dépôts publics présentent le code et la documentation disponibles ; ils ne constituent pas une garantie que chaque fonctionnalité a été validée en production.
 
 <details>
-<summary><strong>Présentation en français</strong></summary>
+<summary><strong>English</strong></summary>
 
-Je m'appelle **Carlos da Costa**. Je suis développeur autodidacte et je conçois des applications web et Windows pour répondre à des besoins concrets.
+I am Carlos da Costa, a self-taught developer based in France, preparing for university studies in computer science. I build web and Windows applications with a focus on architecture, data, testing, and user experience.
 
-Je travaille principalement avec JavaScript, TypeScript, React, Firebase, Electron et C#. Mes projets comprennent **Kortiz** (gestion de dépenses partagées, sans transfert d'argent), **Orbit 2.0** (application Windows d'informations système) et un **portfolio administrable pour l'acteur Moussa Toure**.
+**Featured projects**
 
-Je prépare le **baccalauréat général en candidat libre**, avec les spécialités **NSI et langues**, dans le but de poursuivre des études universitaires en informatique. Je souhaite approfondir particulièrement les mathématiques, l'algorithmique, l'architecture logicielle et la sécurité.
+- **[Kortiz](https://github.com/carlxwj/kortiz):** multilingual shared-expense tracking and group coordination platform built with JavaScript and Firebase. It does not handle money transfers.
+- **[Orbit 2.0](https://github.com/carlxwj/orbit-windows):** Windows desktop system dashboard built with Electron, React, TypeScript, and C#.
+- **[Moussa Toure CMS](https://github.com/carlxwj/moussa-toure-portfolio-code):** bilingual actor portfolio with a custom content management interface. The public code contains demo data only; original media and production content remain private.
 
-Les dépôts publics de [Kortiz](https://github.com/carlxwj/kortiz), [Orbit 2.0](https://github.com/carlxwj/orbit-windows) et du [CMS de démonstration Moussa Toure](https://github.com/carlxwj/moussa-toure-portfolio-code) permettent de consulter mon code. Le dépôt original de Moussa reste privé pour protéger les ressources appartenant à des tiers.
+My next step is to strengthen my foundations in algorithms, Python, data structures, and mathematics before studying computer science in France.
 
 </details>
 
@@ -109,6 +81,6 @@ Les dépôts publics de [Kortiz](https://github.com/carlxwj/kortiz), [Orbit 2.0]
 
 <div align="center">
 
-**Curious by nature. Building with purpose. Learning every day.**
+**Concevoir, comprendre, tester et améliorer.**
 
 </div>
