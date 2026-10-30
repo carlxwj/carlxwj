@@ -1,6 +1,6 @@
 <div align="center">
 
-# Carlos da Costa
+# Carlos
 
 **Développement web et applications Windows**
 
