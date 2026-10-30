@@ -22,7 +22,7 @@ I'm preparing for the French **baccalauréat as an independent candidate**, with
 
 ## 🚀 Selected projects
 
-### 💸 Kortiz — Collaborative expense management
+### 💸 [Kortiz — Collaborative expense management](https://github.com/carlxwj/kortiz)
 
 A multilingual web application designed to help groups organize shared expenses and keep track of balances, budgets, reimbursements, and discussions.
 
@@ -36,7 +36,7 @@ A multilingual web application designed to help groups organize shared expenses 
 
 **What it teaches me:** data modeling, access control, business logic, automated testing, and full-stack architecture.
 
-### 🖥️ Orbit 2.0 — Windows system dashboard
+### 🖥️ [Orbit 2.0 — Windows system dashboard](https://github.com/carlxwj/orbit-windows)
 
 A Windows desktop project for exploring hardware and system information in a clean interface.
 
@@ -49,7 +49,7 @@ A Windows desktop project for exploring hardware and system information in a cle
 
 **What it teaches me:** desktop architecture, inter-process communication, native-system integration, and error handling.
 
-### 🎬 Moussa Toure — Actor portfolio & custom CMS
+### 🎬 [Moussa Toure — Actor portfolio & custom CMS](https://github.com/carlxwj/moussa-toure-portfolio-code)
 
 A bilingual portfolio for an actor, with an administration interface that makes it possible to update professional content without editing the source code.
 
@@ -62,7 +62,7 @@ A bilingual portfolio for an actor, with an administration interface that makes 
 
 **What it teaches me:** designing for real users, content management systems, cloud integration, and deployment.
 
-> **Repository visibility:** The source repositories for these projects are currently private, including to respect third-party media rights and protect project-specific information. This profile describes the work without exposing private code or credentials. Public demonstrations or technical case studies can be shared when appropriate.
+> **Public repositories:** [Kortiz](https://github.com/carlxwj/kortiz), [Orbit 2.0](https://github.com/carlxwj/orbit-windows), and the [sanitized Moussa Toure CMS](https://github.com/carlxwj/moussa-toure-portfolio-code) are open for viewing. The original Moussa Toure production repository remains private to protect third-party media and project-specific information.
 
 ## 🛠️ Technologies & tools
 
@@ -101,7 +101,7 @@ Je travaille principalement avec JavaScript, TypeScript, React, Firebase, Electr
 
 Je prépare le **baccalauréat général en candidat libre**, avec les spécialités **NSI et langues**, dans le but de poursuivre des études universitaires en informatique. Je souhaite approfondir particulièrement les mathématiques, l'algorithmique, l'architecture logicielle et la sécurité.
 
-Les dépôts sources de mes projets sont actuellement privés. Cette présentation donne un aperçu de mon travail sans diffuser les données sensibles ni les médias appartenant à des tiers.
+Les dépôts publics de [Kortiz](https://github.com/carlxwj/kortiz), [Orbit 2.0](https://github.com/carlxwj/orbit-windows) et du [CMS de démonstration Moussa Toure](https://github.com/carlxwj/moussa-toure-portfolio-code) permettent de consulter mon code. Le dépôt original de Moussa reste privé pour protéger les ressources appartenant à des tiers.
 
 </details>
 
