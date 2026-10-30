@@ -1,18 +1,18 @@
 <div align="center">
 
-# Hi, I'm Carlos 👋
+# Hi, I'm Carlos
 
 ### Self-taught developer · Web & desktop applications · Future Computer Science student
 
 **Building useful software, understanding how it works, and improving it step by step.**
 
-🇫🇷 Based in France · 🎓 Preparing for university studies in Computer Science
+Based in France · Preparing for university studies in Computer Science
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 I'm **Carlos**, a self-taught developer interested in software engineering, application architecture, databases, algorithms, and user experience.
 
@@ -20,9 +20,9 @@ I enjoy turning real needs into usable applications, from collaborative web plat
 
 I'm preparing for the French **baccalauréat as an independent candidate**, with **NSI (Computer Science)** and **languages**, and aim to continue my education with a **Computer Science degree**.
 
-## 🚀 Selected projects
+## Selected projects
 
-### 💸 [Kortiz — Collaborative expense management](https://github.com/carlxwj/kortiz)
+### [Kortiz — Collaborative expense management](https://github.com/carlxwj/kortiz)
 
 A multilingual web application designed to help groups organize shared expenses and keep track of balances, budgets, reimbursements, and discussions.
 
@@ -36,7 +36,7 @@ A multilingual web application designed to help groups organize shared expenses 
 
 **What it teaches me:** data modeling, access control, business logic, automated testing, and full-stack architecture.
 
-### 🖥️ [Orbit 2.0 — Windows system dashboard](https://github.com/carlxwj/orbit-windows)
+### [Orbit 2.0 — Windows system dashboard](https://github.com/carlxwj/orbit-windows)
 
 A Windows desktop project for exploring hardware and system information in a clean interface.
 
@@ -49,7 +49,7 @@ A Windows desktop project for exploring hardware and system information in a cle
 
 **What it teaches me:** desktop architecture, inter-process communication, native-system integration, and error handling.
 
-### 🎬 [Moussa Toure — Actor portfolio & custom CMS](https://github.com/carlxwj/moussa-toure-portfolio-code)
+### [Moussa Toure — Actor portfolio & custom CMS](https://github.com/carlxwj/moussa-toure-portfolio-code)
 
 A bilingual portfolio for an actor, with an administration interface that makes it possible to update professional content without editing the source code.
 
@@ -64,7 +64,7 @@ A bilingual portfolio for an actor, with an administration interface that makes 
 
 > **Public repositories:** [Kortiz](https://github.com/carlxwj/kortiz), [Orbit 2.0](https://github.com/carlxwj/orbit-windows), and the [sanitized Moussa Toure CMS](https://github.com/carlxwj/moussa-toure-portfolio-code) are open for viewing. The original Moussa Toure production repository remains private to protect third-party media and project-specific information.
 
-## 🛠️ Technologies & tools
+## Technologies & tools
 
 | Area | Technologies |
 | --- | --- |
@@ -75,7 +75,7 @@ A bilingual portfolio for an actor, with an administration interface that makes 
 | Quality & security | Automated tests, access rules, code review, technical documentation |
 | Currently learning | Python, algorithms, data structures, and university-level mathematics |
 
-## 🧠 My approach
+## My approach
 
 - **Understand the problem** before choosing a technology.
 - **Keep user data private** and distinguish public configuration from secrets.
@@ -83,7 +83,7 @@ A bilingual portfolio for an actor, with an administration interface that makes 
 - **Learn the fundamentals:** algorithms, data structures, logic, and mathematics.
 - **Explain my work clearly,** including trade-offs and limitations.
 
-## 🎯 My next steps
+## My next steps
 
 - Strengthen my foundations in **mathematics, Python, and algorithms**.
 - Build small algorithm-focused projects alongside my existing applications.
@@ -93,7 +93,7 @@ A bilingual portfolio for an actor, with an administration interface that makes 
 ---
 
 <details>
-<summary><strong>🇫🇷 Présentation en français</strong></summary>
+<summary><strong>Présentation en français</strong></summary>
 
 Je m'appelle **Carlos da Costa**. Je suis développeur autodidacte et je conçois des applications web et Windows pour répondre à des besoins concrets.
 
