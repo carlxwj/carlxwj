@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About me
 
-I'm **Carlos da Costa**, a self-taught developer interested in software engineering, application architecture, databases, algorithms, and user experience.
+I'm **Carlos**, a self-taught developer interested in software engineering, application architecture, databases, algorithms, and user experience.
 
 I enjoy turning real needs into usable applications, from collaborative web platforms to Windows desktop tools. I also work on testing, documentation, security, and maintainability—not only visual design.
 
