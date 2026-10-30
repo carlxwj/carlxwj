@@ -24,7 +24,7 @@ Application web collaborative et multilingue pour organiser des dépenses, prép
 - **Enjeux techniques :** calculs financiers, règles d'accès, états de remboursement, communication et tests de régression.
 - **Précision :** Kortiz ne reçoit, ne conserve et ne transfère pas d'argent.
 
-[Code source](https://github.com/carlxwj/kortiz) · [Site public](https://kortiz-de19f.web.app/) · [Tests automatisés](https://github.com/carlxwj/kortiz/actions/workflows/checks.yml)
+[Code source](https://github.com/carlxwj/kortiz) · [Site public](https://kortiz-de19f.web.app/) · [Tests automatisés](https://github.com/carlxwj/kortiz/actions/workflows/checks.yml) · [Étude de cas (PDF)](https://github.com/carlxwj/kortiz/blob/main/docs/ETUDE_DE_CAS_TECHNIQUE_KORTIZ.pdf)
 
 ### [Orbit 2.0 — Application de bureau Windows](https://github.com/carlxwj/orbit-windows)
 
@@ -34,7 +34,7 @@ Tableau de bord natif pour explorer les informations matérielles d'un PC, les p
 - **Enjeux techniques :** architecture desktop, communication IPC, collecte système, données indisponibles et compatibilité.
 - **État :** code et compilation Windows automatisée disponibles ; validation sur différents matériels encore en cours.
 
-[Code source](https://github.com/carlxwj/orbit-windows) · [Tests](https://github.com/carlxwj/orbit-windows/actions/workflows/checks.yml) · [Build Windows](https://github.com/carlxwj/orbit-windows/actions/workflows/windows.yml)
+[Code source](https://github.com/carlxwj/orbit-windows) · [Tests](https://github.com/carlxwj/orbit-windows/actions/workflows/checks.yml) · [Build Windows](https://github.com/carlxwj/orbit-windows/actions/workflows/windows.yml) · [Étude de cas (PDF)](https://github.com/carlxwj/orbit-windows/blob/main/docs/ETUDE_DE_CAS_TECHNIQUE_ORBIT_2.pdf)
 
 ### [Moussa Toure — Portfolio d'acteur et CMS](https://github.com/carlxwj/moussa-toure-portfolio-code)
 
@@ -44,7 +44,7 @@ Portfolio bilingue avec interface d'administration pour gérer les projets, exp�
 - **Enjeux techniques :** expérience utilisateur, gestion de contenus, authentification, permissions et stockage de médias.
 - **Confidentialité :** le dépôt public présente une édition de démonstration, sans les photos, le CV ni les données de production de l'acteur. Le dépôt original reste privé.
 
-[Code public de démonstration](https://github.com/carlxwj/moussa-toure-portfolio-code) · [Site de l'acteur](https://moussatoure-actor.web.app/) · [Tests](https://github.com/carlxwj/moussa-toure-portfolio-code/actions/workflows/checks.yml)
+[Code public de démonstration](https://github.com/carlxwj/moussa-toure-portfolio-code) · [Site de l'acteur](https://moussatoure-actor.web.app/) · [Tests](https://github.com/carlxwj/moussa-toure-portfolio-code/actions/workflows/checks.yml) · [Étude de cas (PDF)](https://github.com/carlxwj/moussa-toure-portfolio-code/blob/main/docs/ETUDE_DE_CAS_TECHNIQUE_MOUSSA_TOURE.pdf)
 
 ## Compétences
 
