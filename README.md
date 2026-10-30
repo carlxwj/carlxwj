@@ -6,7 +6,7 @@
 
 Développeur autodidacte basé en France, je conçois des applications utiles en m'intéressant autant à leur architecture, leurs données et leurs tests qu'à leur interface.
 
-Préparation du baccalauréat général en candidat libre (NSI et langues) · Projet de poursuite d'études en informatique
+· Projet de poursuite d'études en informatique
 
 [Projets](#projets) · [Compétences](#compétences) · [Parcours](#parcours) · [English](#english)
 
